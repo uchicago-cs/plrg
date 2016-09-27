@@ -1,4 +1,5 @@
 /* https://github.com/simonlc/Markdown-CSS (Public Domain) */
+/* Slight modifications. */
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
@@ -13,9 +14,9 @@ max-width:42em;
 background:#fefefe;
 }
 
-a{ color: #0645ad; text-decoration:none;}
-a:visited{ color: #0b0080; }
-a:hover{ color: #06e; }
+a{ color: #2492c1; text-decoration:none;}
+a:visited{ color: #2492c1; }
+a:hover{ color: #54d6fc; }
 a:active{ color:#faa700; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
