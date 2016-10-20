@@ -12,16 +12,16 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule of Papers
 
-| Date       | Paper                                                                                            | Leader |
-|------------|--------------------------------------------------------------------------------------------------|--------|
-| 2016-10-14 | [Semi-Automated SVG Programming via Direct Manipulation](https://arxiv.org/pdf/1608.02829v1.pdf) | Brian  |
-| 2016-10-21 | TBA                                                                                              |        |
-| 2016-10-28 | TBA                                                                                              |        |
-| 2016-11-04 | TBA                                                                                              |        |
-| 2016-11-11 | TBA                                                                                              |        |
-| 2016-11-18 | TBA                                                                                              |        |
-| 2016-11-25 | TBA                                                                                              |        |
-| 2016-12-02 | TBA                                                                                              |        |
-| 2016-12-09 | TBA                                                                                              |        |
+| Date       | Paper                                                                                                                              | Leader |
+|------------|------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2016-10-14 | [Semi-Automated SVG Programming via Direct Manipulation](https://arxiv.org/pdf/1608.02829v1.pdf)                                   | Brian  |
+| 2016-10-21 | [Automatic Generation of Peephole Superoptimizers](http://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)             | Kavon  |
+| 2016-10-28 | [Dag-Calculus: A Calculus for Parallel Computation](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf) | Kavon  |
+| 2016-11-04 | TBA                                                                                                                                |        |
+| 2016-11-11 | TBA                                                                                                                                |        |
+| 2016-11-18 | TBA                                                                                                                                |        |
+| 2016-11-25 | TBA                                                                                                                                |        |
+| 2016-12-02 | TBA                                                                                                                                |        |
+| 2016-12-09 | TBA                                                                                                                                |        |
 
 The University of Chicago Programming Languages Reading group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Visitors welcome!
