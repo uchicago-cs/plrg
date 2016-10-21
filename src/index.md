@@ -17,7 +17,7 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 | 2016-10-14 | [Semi-Automated SVG Programming via Direct Manipulation](https://arxiv.org/pdf/1608.02829v1.pdf)                                   | Brian  |
 | 2016-10-21 | [Automatic Generation of Peephole Superoptimizers](http://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)             | Kavon  |
 | 2016-10-28 | [Dag-Calculus: A Calculus for Parallel Computation](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf) | Kavon  |
-| 2016-11-04 | TBA                                                                                                                                |        |
+| 2016-11-04 | [A correspondence between rooted planar maps and normal planar lambda terms](http://arxiv.org/pdf/1408.5028v4)                     | Joe    |
 | 2016-11-11 | TBA                                                                                                                                |        |
 | 2016-11-18 | TBA                                                                                                                                |        |
 | 2016-11-25 | TBA                                                                                                                                |        |
