@@ -4,15 +4,7 @@ Title: UChicago PL Reading Group
 
 # ![](reading_lambda.png "Reading Lambda") University of Chicago Programming Languages Reading Group
 
-The University of Chicago Programming Languages Reading group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
-
 If you might like to attend during the Spring 2017 term, please [tell us what times work for you](http://whenisgood.net/uchicago-plrg-spring-17).
-
-To receive announcements, [sign up](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup) for the `pl-readinggroup` mailing list.
-
-To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
-
-## Schedule of Papers
 
 | Date       | Paper | Leader |
 |------------|-------|--------|
@@ -27,6 +19,13 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 | 2017-3-10? | TBA   | TBA    |
 | 2017-3-17? | TBA   | TBA    |
 
+## About
+
+The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
+
+To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
+
+To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
 
 ## Past Terms
 
