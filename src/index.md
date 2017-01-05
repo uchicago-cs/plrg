@@ -4,6 +4,8 @@ Title: UChicago PL Reading Group
 
 # ![](reading_lambda.png "Reading Lambda") University of Chicago Programming Languages Reading Group
 
+## Schedule
+
 If you might like to attend during the Spring 2017 term, please [tell us what times work for you](http://whenisgood.net/uchicago-plrg-spring-17).
 
 | Date       | Paper | Leader |
@@ -18,12 +20,6 @@ If you might like to attend during the Spring 2017 term, please [tell us what ti
 | 2017-3-01? | TBA   | TBA    |
 | 2017-3-10? | TBA   | TBA    |
 | 2017-3-17? | TBA   | TBA    |
-
-## About
-
-The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
-
-To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
 
 To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
 
@@ -40,3 +36,8 @@ For the Fall 2016 term, we met on Fridays, 12:30pm-1:30pm in Ryerson 276.
 | 2016-10-28 | [Dag-Calculus: A Calculus for Parallel Computation](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf) | Kavon  |
 | 2016-11-04 | [A correspondence between rooted planar maps and normal planar lambda terms](http://arxiv.org/pdf/1408.5028v4)                     | Joe    |
 
+## About
+
+The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
+
+To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
