@@ -6,7 +6,7 @@ Title: UChicago PL Reading Group
 
 ## Schedule
 
-If you might like to attend during the Spring 2017 term, please [tell us what times work for you](http://whenisgood.net/uchicago-plrg-spring-17).
+Time and location for the Winter 2017 term are forthcoming.
 
 | Date       | Paper | Leader |
 |------------|-------|--------|
