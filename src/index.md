@@ -11,7 +11,7 @@ We currently meet Fridays, 11:30-12:30pm in Ryerson 277.
 | Date      | Paper                                                                                                                                                                         | Leader |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2017-1-13 | [Polymorphism, Subtyping, and Type Inference in MLsub (POPL '17)](https://dl.acm.org/citation.cfm?id=3009882) [(ICFP '15 Video)](https://www.youtube.com/watch?v=E3PIKlsXOQo) | Brian  |
-| 2017-1-20 | TBA                                                                                                                                                                           | TBA    |
+| 2017-1-20 | [Compiling Without Continuations (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf)                    | Kavon  |
 | 2017-1-27 | TBA                                                                                                                                                                           | TBA    |
 | 2017-2-03 | TBA                                                                                                                                                                           | TBA    |
 | 2017-2-10 | TBA                                                                                                                                                                           | TBA    |
