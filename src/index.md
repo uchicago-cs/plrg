@@ -8,18 +8,18 @@ Title: UChicago PL Reading Group
 
 We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence summary of the paper.
 
-| Date      | Paper                                                                                                                                                                         | Leader |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 2017-1-13 | [Polymorphism, Subtyping, and Type Inference in MLsub (POPL '17)](https://dl.acm.org/citation.cfm?id=3009882) [(ICFP '15 Video)](https://www.youtube.com/watch?v=E3PIKlsXOQo) | Brian  |
-| 2017-1-20 | [Compiling Without Continuations (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf)                    | Kavon  |
-| 2017-1-27 | TBA                                                                                                                                                                           | TBA    |
-| 2017-2-03 | TBA                                                                                                                                                                           | TBA    |
-| 2017-2-10 | TBA                                                                                                                                                                           | TBA    |
-| 2017-2-17 | TBA                                                                                                                                                                           | TBA    |
-| 2017-2-24 | TBA                                                                                                                                                                           | TBA    |
-| 2017-3-01 | TBA                                                                                                                                                                           | TBA    |
-| 2017-3-10 | TBA                                                                                                                                                                           | TBA    |
-| 2017-3-17 | TBA                                                                                                                                                                           | TBA    |
+| Date      | Paper                                                                                                                                                                                  | Leader |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2017-1-13 | [Polymorphism, Subtyping, and Type Inference in MLsub (POPL '17)](https://dl.acm.org/citation.cfm?id=3009882) [(ICFP '15 Video)](https://www.youtube.com/watch?v=E3PIKlsXOQo)          | Brian  |
+| 2017-1-20 | [Compiling Without Continuations (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf)                             | Kavon  |
+| 2017-1-27 | [Learning Refinement Types (ICFP '15)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icfp_my_version.pdf) [(Video)](https://www.youtube.com/watch?v=fxuQYf7trtA) | Brian  |
+| 2017-2-03 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-2-10 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-2-17 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-2-24 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-3-01 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-3-10 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-3-17 | TBA                                                                                                                                                                                    | TBA    |
 
 To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
 
