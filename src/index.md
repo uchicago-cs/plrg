@@ -6,7 +6,7 @@ Title: UChicago PL Reading Group
 
 ## Schedule
 
-We currently meet Fridays, 11:30-12:30pm in Ryerson 277.
+We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence summary of the paper.
 
 | Date      | Paper                                                                                                                                                                         | Leader |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
