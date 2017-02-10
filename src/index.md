@@ -14,8 +14,8 @@ We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence 
 | 2017-1-20 | [Compiling Without Continuations (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/compiling-without-continuations.pdf)                             | Kavon  |
 | 2017-1-27 | [Learning Refinement Types (ICFP '15)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/icfp_my_version.pdf) [(Video)](https://www.youtube.com/watch?v=fxuQYf7trtA) | Brian  |
 | 2017-2-03 | [Refinement Reflection (or, how to turn your favorite language into a proof assistant using SMT) (draft)](https://arxiv.org/pdf/1610.04641)                                            | Brian  |
-| 2017-2-10 | TBA                                                                                                                                                                                    | TBA    |
-| 2017-2-17 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-2-10 | —                                                                                                                                                                                      | —      |
+| 2017-2-17 | [Language primitives and type discipline for structured communication-based programming (ESOP '98)](https://link.springer.com/chapter/10.1007/BFb0053567)                              | Brian  |
 | 2017-2-24 | TBA                                                                                                                                                                                    | TBA    |
 | 2017-3-01 | TBA                                                                                                                                                                                    | TBA    |
 | 2017-3-10 | TBA                                                                                                                                                                                    | TBA    |
