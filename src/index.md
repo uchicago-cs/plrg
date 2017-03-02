@@ -17,7 +17,7 @@ We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence 
 | 2017-2-10 | —                                                                                                                                                                                      | —      |
 | 2017-2-17 | [Language primitives and type discipline for structured communication-based programming (ESOP '98)](https://link.springer.com/chapter/10.1007/BFb0053567)                              | Brian  |
 | 2017-2-24 | [Programming with Algebraic Effects and Handlers](http://arxiv.org/pdf/1203.1539v1)                                                                                                    | Joe    |
-| 2017-3-01 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-3-03 | —                                                                                                                                                                                      | —      |
 | 2017-3-10 | TBA                                                                                                                                                                                    | TBA    |
 | 2017-3-17 | TBA                                                                                                                                                                                    | TBA    |
 
