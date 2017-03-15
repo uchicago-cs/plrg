@@ -19,7 +19,7 @@ We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence 
 | 2017-2-24 | [Programming with Algebraic Effects and Handlers](http://arxiv.org/pdf/1203.1539v1)                                                                                                    | Joe    |
 | 2017-3-03 | —                                                                                                                                                                                      | —      |
 | 2017-3-10 | —                                                                                                                                                                                      | –      |
-| 2017-3-17 | TBA                                                                                                                                                                                    | TBA    |
+| 2017-3-17 | [Retrofitting Linear Types (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)                                          | Joe    |
 
 To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
 
