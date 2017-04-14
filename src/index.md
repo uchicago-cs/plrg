@@ -6,7 +6,7 @@ Title: UChicago PL Reading Group
 
 ## Schedule
 
-Reading Group is on hiatus for the Spring 2017 semester. The PL energy of the regular attenders is being focused variously on [Program Synthesis Seminar](https://www.classes.cs.uchicago.edu/archive/2017/spring/32001-1/), finishing a master's paper, and [hacking on GHC](https://ghc.haskell.org/trac/ghc/wiki/Internships).
+**Reading Group is on hiatus for the Spring 2017 term,** in part because of topic overlap with the currently running [Program Synthesis Seminar](https://www.classes.cs.uchicago.edu/archive/2017/spring/32001-1/). The PLRG should resume Fall 2017.
 
 To suggest a paper for the future, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
 
