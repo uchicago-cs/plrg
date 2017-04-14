@@ -6,7 +6,15 @@ Title: UChicago PL Reading Group
 
 ## Schedule
 
-We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence summary of the paper.
+Reading Group is on hiatus for the Spring 2017 semester. The PL energy of the regular attenders is being focused variously on [Program Synthesis Seminar](https://www.classes.cs.uchicago.edu/archive/2017/spring/32001-1/), finishing a master's paper, and [hacking on GHC](https://ghc.haskell.org/trac/ghc/wiki/Internships).
+
+To suggest a paper for the future, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
+
+## Past Terms
+
+### Winter 2017
+
+For the Winter 2017 term, we met on Fridays, 11:30-12:30pm in Ryerson 277.
 
 | Date      | Paper                                                                                                                                                                                  | Leader |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
@@ -20,10 +28,6 @@ We currently meet Fridays, 11:30-12:30pm in Ryerson 277. Bring a three sentence 
 | 2017-3-03 | —                                                                                                                                                                                      | —      |
 | 2017-3-10 | —                                                                                                                                                                                      | –      |
 | 2017-3-17 | [Retrofitting Linear Types (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)                                          | Joe    |
-
-To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
-
-## Past Terms
 
 ### Fall 2016
 
