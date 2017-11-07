@@ -25,6 +25,10 @@ For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
 
 ## Past Terms
 
+### Spring 2017
+
+Reading Group did not meet during the Spring 2017 term. The [Program Synthesis Seminar](https://www.classes.cs.uchicago.edu/archive/2017/spring/32001-1/) crowded it out.
+
 ### Winter 2017
 
 For the Winter 2017 term, we met on Fridays, 11:30-12:30pm in Ryerson 277.
