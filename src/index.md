@@ -4,11 +4,24 @@ Title: UChicago PL Reading Group
 
 # ![](reading_lambda.png "Reading Lambda") University of Chicago Programming Languages Reading Group
 
+The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
+
+To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
+
+To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
+
 ## Schedule
 
-**Reading Group is on hiatus for the Spring 2017 term,** in part because of topic overlap with the currently running [Program Synthesis Seminar](https://www.classes.cs.uchicago.edu/archive/2017/spring/32001-1/). The PLRG should resume Fall 2017.
+For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
 
-To suggest a paper for the future, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
+| Date       | Paper                                                                                                                                                                                                                 | Leader |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2017-11-09 | [Structured Asynchrony with Algebraic Effects (TyDe '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf) [(Video)](https://www.youtube.com/watch?v=hrBq8R_kxI0) | Brian  |
+| 2017-11-16 | [Type Directed Compilation of Row-Typed Algebraic Effects (POPL '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/algeff.pdf)                                                                 | Kavon  |
+| 2017-11-23 | _Thanksgiving_                                                                                                                                                                                                        | -      |
+| 2017-11-30 | TBA                                                                                                                                                                                                                   | TBA    |
+| 2017-12-07 | TBA (Exam week, Ry 276 unavailable)                                                                                                                                                                                   | TBA    |
+
 
 ## Past Terms
 
@@ -39,9 +52,3 @@ For the Fall 2016 term, we met on Fridays, 12:30pm-1:30pm in Ryerson 276.
 | 2016-10-21 | [Automatic Generation of Peephole Superoptimizers](http://theory.stanford.edu/~aiken/publications/papers/asplos06.pdf)             | Kavon  |
 | 2016-10-28 | [Dag-Calculus: A Calculus for Parallel Computation](http://www.chargueraud.org/research/2016/dag_calculus/dag_calculus_icfp16.pdf) | Kavon  |
 | 2016-11-04 | [A correspondence between rooted planar maps and normal planar lambda terms](http://arxiv.org/pdf/1408.5028v4)                     | Joe    |
-
-## About
-
-The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
-
-To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
