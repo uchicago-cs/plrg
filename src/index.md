@@ -17,9 +17,9 @@ For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
 | Date       | Paper                                                                                                                                                                                                                 | Leader |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2017-11-09 | [Structured Asynchrony with Algebraic Effects (TyDe '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf) [(Video)](https://www.youtube.com/watch?v=hrBq8R_kxI0) | Brian  |
-| 2017-11-16 | [Type Directed Compilation of Row-Typed Algebraic Effects (POPL '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/algeff.pdf)                                                                 | Kavon  |
+| 2017-11-16 | [Tracing Lazy Functional Computations Using Redex Trails (PLILP '97)](https://link.springer.com/content/pdf/10.1007%2FBFb0033851.pdf)                                                                                 | Brian  |
 | 2017-11-23 | _Thanksgiving_                                                                                                                                                                                                        | -      |
-| 2017-11-30 | TBA                                                                                                                                                                                                                   | TBA    |
+| 2017-11-30 | [Type Directed Compilation of Row-Typed Algebraic Effects (POPL '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/algeff.pdf)                                                                 | Kavon  |
 | 2017-12-07 | TBA (Exam week, Ry 276 unavailable)                                                                                                                                                                                   | TBA    |
 
 
