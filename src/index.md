@@ -18,10 +18,10 @@ For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2017-11-09 | [Structured Asynchrony with Algebraic Effects (TyDe '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf) [(Video)](https://www.youtube.com/watch?v=hrBq8R_kxI0) | Brian  |
 | 2017-11-16 | [Tracing Lazy Functional Computations Using Redex Trails (PLILP '97)](https://link.springer.com/content/pdf/10.1007%2FBFb0033851.pdf)                                                                                 | Brian  |
-| 2017-11-23 | _Thanksgiving_                                                                                                                                                                                                        | -      |
+| 2017-11-23 | _Thanksgiving_                                                                                                                                                                                                        | —      |
 | 2017-11-30 | [Type Directed Compilation of Row-Typed Algebraic Effects (POPL '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/algeff.pdf)                                                                 | Kavon  |
-| 2017-12-07 | —                                                                                                                                                                                                                     | —    |
-| 2017-12-14 | [Functional Programs That Explain Their Work (ICFP '12)](https://dl.acm.org/citation.cfm?id=2364579) [(Video)](https://www.youtube.com/watch?v=pqtqaL_ojpk)                                                           | Brian    |
+| 2017-12-07 | —                                                                                                                                                                                                                     | —      |
+| 2017-12-14 | [Functional Programs That Explain Their Work (ICFP '12)](https://dl.acm.org/citation.cfm?id=2364579) [(Video)](https://www.youtube.com/watch?v=pqtqaL_ojpk)                                                           | Brian  |
 
 
 ## Past Terms
@@ -44,7 +44,7 @@ For the Winter 2017 term, we met on Fridays, 11:30-12:30pm in Ryerson 277.
 | 2017-2-17 | [Language primitives and type discipline for structured communication-based programming (ESOP '98)](https://link.springer.com/chapter/10.1007/BFb0053567)                              | Brian  |
 | 2017-2-24 | [Programming with Algebraic Effects and Handlers](http://arxiv.org/pdf/1203.1539v1)                                                                                                    | Joe    |
 | 2017-3-03 | —                                                                                                                                                                                      | —      |
-| 2017-3-10 | —                                                                                                                                                                                      | –      |
+| 2017-3-10 | —                                                                                                                                                                                      | —      |
 | 2017-3-17 | [Retrofitting Linear Types (In submission)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/haskell-linear-submitted.pdf)                                          | Joe    |
 
 ### Fall 2016
