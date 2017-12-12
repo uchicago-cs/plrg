@@ -12,7 +12,7 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
+For the Fall 2017 term, we meet on Thursdays, 3pm-4pm in Ryerson 276.
 
 | Date       | Paper                                                                                                                                                                                                                 | Leader |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
