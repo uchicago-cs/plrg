@@ -12,7 +12,23 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Fall 2017 term, we meet on Thursdays, 3pm-4pm in Ryerson 276.
+For the Winter 2018 term, we meet on TBA.
+
+| Date | Paper                                                                            | Leader   |
+|------|----------------------------------------------------------------------------------|----------|
+|      | A Principled Approach to Ornamentation in ML                                     | Joe      |
+|      | TBA                                                                              | Cyrus    |
+|      | 1ML – Core and Modules United                                                    | Brian    |
+|      | Every bit counts: The binary representation of typed data and programs (JFP '12) | Joe      |
+|      | TBA                                                                              | Brian    |
+|      | Contification using Dominators (ICFP '01)                                        | Kavon    |
+|      | Day of Fun                                                                       | Charisee |
+
+## Past Terms
+
+### Fall 2017
+
+For the Fall 2017 term, we met on Thursdays, 3pm-4pm in Ryerson 276.
 
 | Date       | Paper                                                                                                                                                                                                                 | Leader |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
@@ -22,9 +38,6 @@ For the Fall 2017 term, we meet on Thursdays, 3pm-4pm in Ryerson 276.
 | 2017-11-30 | [Type Directed Compilation of Row-Typed Algebraic Effects (POPL '17)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/algeff.pdf)                                                                 | Kavon  |
 | 2017-12-07 | —                                                                                                                                                                                                                     | —      |
 | 2017-12-14 | [Functional Programs That Explain Their Work (ICFP '12)](https://dl.acm.org/citation.cfm?id=2364579) [(Video)](https://www.youtube.com/watch?v=pqtqaL_ojpk)                                                           | Brian  |
-
-
-## Past Terms
 
 ### Spring 2017
 
