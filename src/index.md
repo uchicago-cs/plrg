@@ -12,17 +12,17 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Winter 2018 term, we meet on TBA.
+For the Winter 2018 term, we meet on _TBA_.
 
-| Date | Paper                                                                                                                                                                   | Leader   |
-|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| TBA  | [A Principled Approach to Ornamentation in ML (POPL '18)](http://pauillac.inria.fr/%7Eremy/ornaments/mlorn-2017-09.pdf)                                                 | Joe      |
-| TBA  | _TBA_                                                                                                                                                                   | Cyrus    |
-| TBA  | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                   | Brian    |
-| TBA  | [Every bit counts: The binary representation of typed data and programs (JFP '12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe      |
-| TBA  | _TBA_                                                                                                                                                                   | Brian    |
-| TBA  | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                               | Kavon    |
-| TBA  | _Day of Fun_                                                                                                                                                            | Charisee |
+| Date | Paper                                                                                                                                                                        | Leader   |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| TBA  | [A Principled Approach to Ornamentation in ML (POPL '18)](http://pauillac.inria.fr/%7Eremy/ornaments/mlorn-2017-09.pdf)                                                      | Joe      |
+| TBA  | _TBA_                                                                                                                                                                        | Cyrus    |
+| TBA  | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                        | Brian    |
+| TBA  | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe      |
+| TBA  | _TBA_                                                                                                                                                                        | Brian    |
+| TBA  | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                                    | Kavon    |
+| TBA  | _Day of Fun_                                                                                                                                                                 | Charisee |
 
 ## Past Terms
 
