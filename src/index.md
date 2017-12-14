@@ -14,15 +14,15 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 For the Winter 2018 term, we meet on TBA.
 
-| Date | Paper                                                                            | Leader   |
-|------|----------------------------------------------------------------------------------|----------|
-|      | A Principled Approach to Ornamentation in ML                                     | Joe      |
-|      | TBA                                                                              | Cyrus    |
-|      | 1ML – Core and Modules United                                                    | Brian    |
-|      | Every bit counts: The binary representation of typed data and programs (JFP '12) | Joe      |
-|      | TBA                                                                              | Brian    |
-|      | Contification using Dominators (ICFP '01)                                        | Kavon    |
-|      | Day of Fun                                                                       | Charisee |
+| Date | Paper                                                                                                                                                                   | Leader   |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|      | [A Principled Approach to Ornamentation in ML (POPL '18)](http://pauillac.inria.fr/%7Eremy/ornaments/mlorn-2017-09.pdf)                                                 | Joe      |
+|      | TBA                                                                                                                                                                     | Cyrus    |
+|      | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                   | Brian    |
+|      | [Every bit counts: The binary representation of typed data and programs (JFP '12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe      |
+|      | TBA                                                                                                                                                                     | Brian    |
+|      | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                               | Kavon    |
+|      | Day of Fun                                                                                                                                                              | Charisee |
 
 ## Past Terms
 
