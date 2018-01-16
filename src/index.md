@@ -22,7 +22,6 @@ For the Winter 2018 term, we meet on Tuesdays, 2pm-3pm in Eckhart 129.
 | 2018-1-30 | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe      |
 | 2018-2-6  | _TBA_                                                                                                                                                                        | Brian    |
 | 2018-2-13 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                                    | Kavon    |
-| 2018-2-20 | _Day of Fun_                                                                                                                                                                 | Charisee |
 
 ## Past Terms
 
