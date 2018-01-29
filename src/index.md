@@ -19,8 +19,8 @@ For the Winter 2018 term, we meet on Tuesdays, 2pm-3pm in Eckhart 129.
 | 2018-1-9  | [A Principled Approach to Ornamentation in ML (POPL '18)](https://hal.inria.fr/hal-01666104/file/ornaments-popl18-final.pdf)                                                 | Joe    |
 | 2018-1-16 | [Hazelnut: A Bidirectionally Typed Structure Editor Calculus (POPL '17)](https://arxiv.org/pdf/1607.04180.pdf) [(Demo)](http://hazel.org/)                                   | Cyrus  |
 | 2018-1-23 | _Postponed by Illness_                                                                                                                                                       | —      |
-| 2018-1-30 | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe    |
-| 2018-2-6  | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                        | Brian  |
+| 2018-1-30 | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                        | Brian  |
+| 2018-2-6  | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf) | Joe    |
 | 2018-2-13 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                                    | Kavon  |
 
 ## Past Terms
