@@ -12,23 +12,30 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Winter 2018 term, we meet on Tuesdays, 2pm-3pm in Eckhart 129.
+For the Spring 2018 term, we meet on TBA.
 
-| Date      | Paper                                                                                                                                                                                                                                         | Leader           |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
-| 2018-1-9  | [A Principled Approach to Ornamentation in ML (POPL '18)](https://hal.inria.fr/hal-01666104/file/ornaments-popl18-final.pdf)                                                                                                                  | Joe              |
-| 2018-1-16 | [Hazelnut: A Bidirectionally Typed Structure Editor Calculus (POPL '17)](https://arxiv.org/pdf/1607.04180.pdf) [(Demo)](http://hazel.org/)                                                                                                    | Cyrus            |
-| 2018-1-23 | _Postponed by Illness_                                                                                                                                                                                                                        | —                |
-| 2018-1-30 | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                                                                                         | Brian            |
-| 2018-2-6  | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf)                                                                  | Joe              |
-| 2018-2-13 | [The Next 700 Programming Languages (CACM '66)](https://dl.acm.org/citation.cfm?id=365257) & [Why Concatenative Programming Matters (Blog post '12)](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html) | Kartik & Joe     |
-| 2018-2-20 | Sketch-n-Sketch WIP Demo                                                                                                                                                                                                                      | Brian            |
-| 2018-2-27 | ICFP Drafts                                                                                                                                                                                                                                   | Joe & Kavon      |
-| 2018-3-6  | ICFP Draft                                                                                                                                                                                                                                    | Cyrus            |
-| 2018-3-13 | –                                                                                                                                                                                                                                             | –                |
-| 2018-3-20 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                                                                                                     | Kavon            |
+| Date      | Paper                                                                                                                     | Leader |
+|-----------|---------------------------------------------------------------------------------------------------------------------------|--------|
+| 2018-4-10 | OOPSLA Draft                                                                                                              | Cyrus  |
+| 2018-4-18 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf) | Kavon  |
 
 ## Past Terms
+
+### Winter 2018
+
+For the Winter 2018 term, we meet on Tuesdays, 2pm-3pm in Eckhart 129.
+
+| Date      | Paper                                                                                                                                                                                                                                         | Leader       |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 2018-1-9  | [A Principled Approach to Ornamentation in ML (POPL '18)](https://hal.inria.fr/hal-01666104/file/ornaments-popl18-final.pdf)                                                                                                                  | Joe          |
+| 2018-1-16 | [Hazelnut: A Bidirectionally Typed Structure Editor Calculus (POPL '17)](https://arxiv.org/pdf/1607.04180.pdf) [(Demo)](http://hazel.org/)                                                                                                    | Cyrus        |
+| 2018-1-23 | _Postponed by Illness_                                                                                                                                                                                                                        | —            |
+| 2018-1-30 | [1ML – Core and Modules United (JFP '16)](https://people.mpi-sws.org/~rossberg/1ml/1ml-jfp-draft.pdf)                                                                                                                                         | Brian        |
+| 2018-2-6  | [Every Bit Counts: The Binary Representation of Typed Data and Programs (JFP&nbsp;'12)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.7529&rep=rep1&type=pdf)                                                                  | Joe          |
+| 2018-2-13 | [The Next 700 Programming Languages (CACM '66)](https://dl.acm.org/citation.cfm?id=365257) & [Why Concatenative Programming Matters (Blog post '12)](https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html) | Kartik & Joe |
+| 2018-2-20 | Sketch-n-Sketch WIP Demo                                                                                                                                                                                                                      | Brian        |
+| 2018-2-27 | ICFP Drafts                                                                                                                                                                                                                                   | Joe & Kavon  |
+| 2018-3-6  | ICFP Draft                                                                                                                                                                                                                                    | Cyrus        |
 
 ### Fall 2017
 
