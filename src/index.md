@@ -12,12 +12,12 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Spring 2018 term, we meet on TBA.
+For the Spring 2018 term, we meet on Tuesdays, 12:30pm-1:30pm in Eckhart 129.
 
 | Date      | Paper                                                                                                                     | Leader |
 |-----------|---------------------------------------------------------------------------------------------------------------------------|--------|
 | 2018-4-10 | OOPSLA Draft                                                                                                              | Cyrus  |
-| 2018-4-18 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf) | Kavon  |
+| 2018-4-17 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf) | Kavon  |
 
 ## Past Terms
 
