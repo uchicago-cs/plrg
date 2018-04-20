@@ -14,15 +14,15 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 For the Spring 2018 term, we meet on Tuesdays, 12:30pm-1:30pm in Eckhart 129.
 
-| Date      | Paper                                                                                                                                            | Leader |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 2018-4-10 | OOPSLA Draft                                                                                                                                     | Cyrus  |
-| 2018-4-17 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                        | Kavon  |
-| 2018-4-24 | Challenges in Higher-Order Superoptimization (presentation on possible thesis topic)                                                             | Kavon  |
-| 2018-5-1  | [Weird Machines, Exploitability, and Provable Unexploitability (IEEE TETC '17)](http://www.dullien.net/thomas/weird-machines-exploitability.pdf) | Joe    |
-| 2018-5-8  | _TBA_                                                                                                                                            | _TBA_  |
-| 2018-5-15 | _TBA_                                                                                                                                            | _TBA_  |
-| 2018-5-22 | [Deuce: A Lightweight User Interface for Structured Editing (ICSE '18 Practice Talk)](https://arxiv.org/pdf/1707.00015)                          | Brian  |
+| Date      | Paper                                                                                                                                                      | Leader |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2018-4-10 | OOPSLA Draft                                                                                                                                               | Cyrus  |
+| 2018-4-17 | [Contification using Dominators (ICFP '01)](https://www.cs.purdue.edu/homes/suresh/502-Fall2008/papers/contification.pdf)                                  | Kavon  |
+| 2018-4-24 | Challenges in Higher-Order Superoptimization (presentation on possible thesis topic)                                                                       | Kavon  |
+| 2018-5-1  | [Weird Machines, Exploitability, and Provable Unexploitability (IEEE TETC '17)](http://www.dullien.net/thomas/weird-machines-exploitability.pdf)           | Joe    |
+| 2018-5-8  | [Tangible Functional Programming (IFCP '07)](http://conal.net/papers/Eros/eros.pdf) ([Google TechTalk Video](https://www.youtube.com/watch?v=faJ8N0giqzw)) | Brian  |
+| 2018-5-15 | _TBA_                                                                                                                                                      | _TBA_  |
+| 2018-5-22 | [Deuce: A Lightweight User Interface for Structured Editing (ICSE '18 Practice Talk)](https://arxiv.org/pdf/1707.00015)                                    | Brian  |
 
 ## Past Terms
 
