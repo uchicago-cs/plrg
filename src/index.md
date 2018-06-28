@@ -12,7 +12,17 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Spring 2018 term, we meet on Tuesdays, 12:30pm-1:30pm in Eckhart 129.
+For the Summer 2018 term, we meet on Fridays at various times and places. Watch the [mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup) for details.
+
+| Date      | Paper                                                                                                                                | Leader |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2018-6-29 | [Towards a Strongly Typed Functional Operating System (IFP '02)](https://link.springer.com/content/pdf/10.1007/3-540-44854-3_14.pdf) | Brian  |
+
+## Past Terms
+
+### Spring 2018
+
+For the Spring 2018 term, we met on Tuesdays, 12:30pm-1:30pm in Eckhart 129.
 
 | Date      | Paper                                                                                                                                                                                                                                                                                                           | Leader |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
@@ -24,11 +34,10 @@ For the Spring 2018 term, we meet on Tuesdays, 12:30pm-1:30pm in Eckhart 129.
 | 2018-5-15 | Molecular Programming Overview; 1. [JoCaml Tutorial](https://sites.google.com/site/winitzki/tutorial-on-join-calculus-and-its-implementation-in-ocaml-jocaml) 2. [The Reflexive CHAM and the Join Calculus (POPL '96)](https://www.classes.cs.uchicago.edu/archive/2007/spring/32102-1/papers/p372-fournet.pdf) | Joe    |
 | 2018-5-22 | [Deuce: A Lightweight User Interface for Structured Editing (ICSE '18 Practice Talk)](https://arxiv.org/pdf/1707.00015) [(Demo Video)](https://www.youtube.com/watch?v=oJaRkyelA-8) [(Silent Demo of User Study Tasks)](https://www.youtube.com/watch?v=N5QcbCKm1I0)                                            | Brian  |
 
-## Past Terms
 
 ### Winter 2018
 
-For the Winter 2018 term, we meet on Tuesdays, 2pm-3pm in Eckhart 129.
+For the Winter 2018 term, we met on Tuesdays, 2pm-3pm in Eckhart 129.
 
 | Date      | Paper                                                                                                                                                                                                                                         | Leader       |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
