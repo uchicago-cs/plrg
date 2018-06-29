@@ -17,6 +17,7 @@ For the Summer 2018 term, we meet on Fridays at various times and places. Watch 
 | Date      | Paper                                                                                                                                | Leader |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2018-6-29 | [Towards a Strongly Typed Functional Operating System (IFP '02)](https://link.springer.com/content/pdf/10.1007/3-540-44854-3_14.pdf) | Brian  |
+| 2018-7-6  | Auto-tuning                                                                                                                          | Kavon  |
 
 ## Past Terms
 
