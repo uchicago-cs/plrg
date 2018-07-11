@@ -18,7 +18,7 @@ For the Summer 2018 term, we meet on Fridays at various times and places. Watch 
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2018-6-29 | [Towards a Strongly Typed Functional Operating System (IFP '02)](https://link.springer.com/content/pdf/10.1007/3-540-44854-3_14.pdf)                                                | Brian  |
 | 2018-7-6  | _Lunch to welcome Nick_                                                                                                                                                             | Ravi   |
-| 2018-7-15 | A discussion of [atJIT](https://github.com/kavon/atJIT) (Related [Paper #1](https://dl.acm.org/citation.cfm?id=2555315), [Paper #2](https://dl.acm.org/citation.cfm?id=2190072)) () | Kavon  |
+| 2018-7-15 | A discussion of [atJIT](https://github.com/kavon/atJIT) (Related [Paper #1](https://dl.acm.org/citation.cfm?id=2555315), [Paper #2](https://dl.acm.org/citation.cfm?id=2190072)) | Kavon  |
 
 ## Past Terms
 
