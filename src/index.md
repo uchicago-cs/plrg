@@ -21,6 +21,7 @@ For the Summer 2018 term, we meet on Fridays at various times and places. Watch 
 | 2018-7-13 | A discussion of [atJIT](https://github.com/kavon/atJIT) (Related [Paper #1](https://dl.acm.org/citation.cfm?id=2555315), [Paper #2](https://dl.acm.org/citation.cfm?id=2190072)) | Kavon  |
 | 2018-7-20 | —                                                                                                                                                                                | —      |
 | 2018-7-27 | NLP/ML + PL                                                                                                                                                                      | Brian  |
+| 2018-8-3  | [Fungi: Typed Incremental Computation With Names (Preprint)](http://matthewhammer.org/fungi-lang-2018.pdf)                                                                       | Nick   |
 
 ## Past Terms
 
