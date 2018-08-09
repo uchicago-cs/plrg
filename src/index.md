@@ -22,6 +22,7 @@ For the Summer 2018 term, we meet on Fridays at various times and places. Watch 
 | 2018-7-20 | —                                                                                                                                                                                | —      |
 | 2018-7-27 | NLP/ML + PL                                                                                                                                                                      | Brian  |
 | 2018-8-3  | [Fungi: Typed Incremental Computation With Names (Preprint)](http://matthewhammer.org/fungi-lang-2018.pdf)                                                                       | Nick   |
+| 2018-8-10 | Bidirectional Evaluation with Direct Manipulation (OOPSLA '18)                                                                                                                   | Mikaël |
 
 ## Past Terms
 
