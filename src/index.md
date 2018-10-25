@@ -12,7 +12,12 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Summer 2018 term, we meet on Fridays at various times and places. Watch the [mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup) for details.
+For the Fall 2018 term, we are not meeting regularly because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Join the [mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup) to hear of any impromptu meetings. Reading group will resume a more regular schedule in Winter 2018.
+
+## Past Terms
+
+### Summer 2018
+For the Summer 2018 term, we met on Fridays at various times and places.
 
 | Date      | Paper                                                                                                                                                                            | Leader             |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
@@ -29,8 +34,6 @@ For the Summer 2018 term, we meet on Fridays at various times and places. Watch 
 | 2018-9-7  | —                                                                                                                                                                                | —                  |
 | 2018-9-14 | Output-Directed SVG Programming (draft)                                                                                                                                          | Brian              |
 | 2018-9-21 | Practice Talk Party (ICFP, Elm Conf, Strange Loop, FHPC)                                                                                                                         | Cyrus, Ravi, Kavon |
-
-## Past Terms
 
 ### Spring 2018
 
