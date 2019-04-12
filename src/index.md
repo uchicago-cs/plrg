@@ -12,27 +12,37 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Fall 2018 term, we are not meeting regularly because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Join the [mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup) to hear of any impromptu meetings. Reading group will resume a more regular schedule in Winter 2018.
+For the Spring 2018 term, PLRG meet on Tuesdays, 3:00pm in Crerar 236.
+
+| Date      | Paper                                                                                                                                                                                                                                                            | Leader |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2019-4-16 | [A Survey of Adaptive Optimization in Virtual Machines (IEEE '05)](https://ieeexplore.ieee.org/iel5/5/30187/01386662.pdf) [Overcoming the Challenges to Feedback-Directed Optimization (Keynote DYNAMO '00)](https://dl.acm.org/citation.cfm?doid=351397.351408) | Kavon  |
+
 
 ## Past Terms
 
+## Fall/Winter 2018
+
+Reading group did not meet for the Fall 2018 term, regularly because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Winter 2018 was also skipped because nobody was thinking about PLRG.
+
 ### Summer 2018
+
 For the Summer 2018 term, we met on Fridays at various times and places.
 
-| Date      | Paper                                                        | Leader             |
-| --------- | ------------------------------------------------------------ | ------------------ |
-| 2018-6-29 | [Towards a Strongly Typed Functional Operating System (IFP '02)](https://link.springer.com/content/pdf/10.1007/3-540-44854-3_14.pdf) | Brian              |
-| 2018-7-6  | _Lunch to welcome Nick_                                      | Ravi               |
-| 2018-7-13 | A discussion of [atJIT](https://github.com/kavon/atJIT) (Related [Paper #1](https://dl.acm.org/citation.cfm?id=2555315), [Paper #2](https://dl.acm.org/citation.cfm?id=2190072)) | Kavon              |
-| 2018-7-20 | —                                                            | —                  |
-| 2018-7-27 | NLP/ML + PL                                                  | Brian              |
-| 2018-8-3  | [Fungi: Typed Incremental Computation With Names (Preprint)](http://matthewhammer.org/fungi-lang-2018.pdf) | Nick               |
-| 2018-8-10 | Bidirectional Evaluation with Direct Manipulation (OOPSLA '18) | Mikaël             |
-| 2018-8-17 | —                                                            | —                  |
-| 2018-8-24 | —                                                            | —                  |
-| 2018-8-31 | —                                                            | —                  |
-| 2018-9-7  | —                                                            | —                  |
-| 2018-9-14 | Output-Directed SVG Programming (draft)                      | Brian              |
+| Date      | Paper                                                                                                                                                                                                 | Leader             |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| 2018-6-29 | [Towards a Strongly Typed Functional Operating System (IFP '02)](https://link.springer.com/content/pdf/10.1007/3-540-44854-3_14.pdf)                                                                  | Brian              |
+| 2018-7-6  | _Lunch to welcome Nick_                                                                                                                                                                               | Ravi               |
+| 2018-7-13 | A discussion of [atJIT](https://github.com/kavon/atJIT) (Related [Paper #1](https://dl.acm.org/citation.cfm?id=2555315), [Paper #2](https://dl.acm.org/citation.cfm?id=2190072))                      | Kavon              |
+| 2018-7-20 | —                                                                                                                                                                                                     | —                  |
+| 2018-7-27 | NLP/ML + PL                                                                                                                                                                                           | Brian              |
+| 2018-8-3  | [Fungi: Typed Incremental Computation With Names (Preprint)](http://matthewhammer.org/fungi-lang-2018.pdf)                                                                                            | Nick               |
+| 2018-8-10 | Bidirectional Evaluation with Direct Manipulation (OOPSLA '18)                                                                                                                                        | Mikaël             |
+| 2018-8-17 | —                                                                                                                                                                                                     | —                  |
+| 2018-8-24 | —                                                                                                                                                                                                     | —                  |
+| 2018-8-31 | —                                                                                                                                                                                                     | —                  |
+| 2018-9-7  | —                                                                                                                                                                                                     | —                  |
+| 2018-9-14 | Output-Directed SVG Programming (draft)                                                                                                                                                               | Brian              |
 | 2018-9-21 | Practice Talk Party ([ICFP](https://www.youtube.com/watch?v=F_0yKqb1uEA), [Elm Conf](https://www.youtube.com/watch?v=-TFL6E1uSHE), [Strange Loop](https://www.youtube.com/watch?v=UkDSL0U9ndQ), FHPC) | Cyrus, Ravi, Kavon |
 
 ### Spring 2018
