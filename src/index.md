@@ -21,7 +21,7 @@ For the Spring 2018 term, PLRG meet on Tuesdays, 3:00pm in Crerar 236.
 
 ## Past Terms
 
-## Fall/Winter 2018
+### Fall/Winter 2018
 
 Reading group did not meet for the Fall 2018 term, regularly because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Winter 2018 was also skipped because nobody was thinking about PLRG.
 
