@@ -12,7 +12,7 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Spring 2018 term, PLRG meets on Tuesdays, 3:00pm in Crerar 236.
+For the Spring 2019 term, PLRG meets on Tuesdays, 3:00pm in Crerar 236.
 
 | Date      | Paper                                                                                                                                                                                                                                                            | Leader |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
