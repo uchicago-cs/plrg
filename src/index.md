@@ -17,6 +17,7 @@ For the Spring 2019 term, PLRG meets on Tuesdays, 3:00pm in Crerar 236.
 | Date      | Paper                                                                                                                                                                                                                                                            | Leader |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 2019-4-16 | [A Survey of Adaptive Optimization in Virtual Machines (IEEE '05)](https://ieeexplore.ieee.org/iel5/5/30187/01386662.pdf) [Overcoming the Challenges to Feedback-Directed Optimization (Keynote DYNAMO '00)](https://dl.acm.org/citation.cfm?doid=351397.351408) | Kavon  |
+| 2019-4-23 | [Rating Compiler Optimizations for Automatic Performance Tuning (SC'04)](https://dl.acm.org/citation.cfm?id=1049958) [Online performance auditing: using hot optimizations without getting burned (PLDI'06)](https://dl.acm.org/citation.cfm?id=1134010)         | Kavon  |
 
 
 ## Past Terms
