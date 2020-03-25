@@ -12,7 +12,21 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Spring 2019 term, PLRG meets on Tuesdays, 3:00pm in Crerar 236.
+For the Spring 2020 term, PLRG meets on Mondays, 12:00pm at https://uchicagostudents.zoom.us/j/564109413.
+
+| Date      | Paper                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Leader |
+| --------- | ------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                            | ------ |
+| 2020-3-30 | [GEC: A Toolkit for Generic Rapid Prototyping of Type Safe Interactive Applications (LNCS '04)](https://repository.ubn.ru.nl/bitstream/handle/2066/60461/60461_pub.pdf?sequence=1) & [EditorArrow: An Arrow-Based Model for Editor-Based Programming (JFP '12)](https://www.researchgate.net/profile/Peter_Achten/publication/228757346_An_Arrow_based_semantics_for_interactive_applications/links/0912f508fe3d9b72fc000000/An-Arrow-based-semantics-for-interactive-applications.pdf) | Brian  |
+
+## Past Terms
+
+### Fall 2019/Winter 2020
+
+Reading group did not meet for the Fall 2019 term and Winter 2020 terms because everybody was distracted.
+
+### Spring 2019
+
+For the Spring 2019 term, PLRG met on Tuesdays, 3:00pm in Crerar 236.
 
 | Date      | Paper                                                                                                                                                                                                                                                                                                                                          | Leader |
 |-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
@@ -21,12 +35,9 @@ For the Spring 2019 term, PLRG meets on Tuesdays, 3:00pm in Crerar 236.
 | 2019-4-30 | [The Operating System: Should There Be One? (PLOS '13)](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell13operating.pdf)                                                                                                                                                                                                      | Brian  |
 | 2019-5-7  | [Phase Shift Detection: A Problem Classification (Tech Report)](https://www.researchgate.net/profile/Peter_Sweeney/publication/2909766_Phase_Shift_Detection_A_Problem_Classification/links/004635191030a70ba9000000.pdf) & [Automatically characterizing large scale program behavior (ASPLOS'02)](https://dl.acm.org/citation.cfm?id=605403) | Kavon  |
 
+### Fall 2018/Winter 2019
 
-## Past Terms
-
-### Fall/Winter 2018
-
-Reading group did not meet for the Fall 2018 term, regularly because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Winter 2018 was also skipped because nobody was thinking about PLRG.
+Reading group did not meet for the Fall 2018 term, because of [Stu's "The Little Typer" Seminar](https://thedeepstateconspiracy.blogspot.com/), [John's Coq Seminar](https://www.classes.cs.uchicago.edu/archive/2018/fall/32001-1/), and paper deadlines. Winter 2018 was also skipped because nobody was thinking about PLRG.
 
 ### Summer 2018
 
