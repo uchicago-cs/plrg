@@ -12,7 +12,7 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For the Spring 2020 term, PLRG meets on Mondays, 12:00pm at [https://uchicagostudents.zoom.us/j/564109413](https://uchicagostudents.zoom.us/j/564109413).
+For the Spring 2020 term, PLRG meets on Wednesdays, 3:00pm at [https://uchicago.zoom.us/j/564109413](https://uchicago.zoom.us/j/564109413).
 
 | Date      | Paper                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Leader |
 | --------- | ------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                            | ------ |
