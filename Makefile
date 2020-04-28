@@ -7,7 +7,7 @@ PROCESS=cat
 
 rebuild: clean website
 
-website: index.html
+website: format index.html
 
 index.html: src/index.md
 	$(PROCESS) $^ | multimarkdown > index.html
