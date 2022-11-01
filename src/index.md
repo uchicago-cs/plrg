@@ -12,6 +12,18 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
+For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
+
+| Date       | Paper                                                                                                                                             | Leader |
+| ----       | -----                                                                                                                                             | ------ |
+| October 18 | [Staged Compilation with Two-Level Type Theory](https://doi.org/10.1145/3547641) & [staged-fusion](https://github.com/AndrasKovacs/staged-fusion) | Skye   |
+| October 25 | (Staged Compilation continued)                                                                                                                    | Skye   |
+| November 1 | [Type-Preserving CPS Translation of Sigma and Pi Types is Not Not Possible](https://www.ccs.neu.edu/home/amal/papers/cpscc.pdf)                   | Nathan |
+
+## Past Terms
+
+### Spring 2020
+
 For the Spring 2020 term, PLRG meets on Wednesdays, 3:00pm at [https://uchicago.zoom.us/j/564109413](https://uchicago.zoom.us/j/564109413).
 
 | Date     | Paper                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Leader |
@@ -25,7 +37,7 @@ For the Spring 2020 term, PLRG meets on Wednesdays, 3:00pm at [https://uchicago.
 | May 20   | [The Art of the Obvious (CHI '92)](https://dl.acm.org/doi/pdf/10.1145/142750.142800) & [Self-Disclosing Design Tools: A Gentle Introduction to End-User Programming (DIS '95)](https://dl.acm.org/doi/pdf/10.1145/225434.225455) & [A Principled Evaluation for a Principled Idea Garden (VL/HCC '15)](https://ieeexplore-ieee-org.proxy.uchicago.edu/stamp/stamp.jsp?tp=&arnumber=7357222)                                                                                             | Brian  |
 | May 27   | [egg: Easy, Efficient, and Extensible E-graphs (2020 Preprint)](https://arxiv.org/pdf/2004.03082.pdf)                                                                                                                                                                                                                                                                                                                                                                                   | Teo    |
 
-## Past Terms
+
 
 ### Fall 2019/Winter 2020
 
