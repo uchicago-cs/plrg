@@ -14,11 +14,11 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
 
-| Date       | Paper                                                                                                                                                                | Leader |
-| ----       | -----                                                                                                                                                                | ------ |
-| October 18 | [Staged Compilation with Two-Level Type Theory (Proc. ACM PL '22)](https://doi.org/10.1145/3547641) & [staged-fusion](https://github.com/AndrasKovacs/staged-fusion) | Skye   |
-| October 25 | (Staged Compilation continued)                                                                                                                                       | Skye   |
-| November 1 | [Type-Preserving CPS Translation of Sigma and Pi Types is Not Not Possible (POPL '18)](https://www.ccs.neu.edu/home/amal/papers/cpscc.pdf)                           | Nathan |
+| Date       | Paper                                                                                                                                                        | Leader |
+| ----       | -----                                                                                                                                                        | ------ |
+| October 18 | [Staged Compilation with Two-Level Type Theory (POPL '22)](https://doi.org/10.1145/3547641) & [staged-fusion](https://github.com/AndrasKovacs/staged-fusion) | Skye   |
+| October 25 | (Staged Compilation continued)                                                                                                                               | Skye   |
+| November 1 | [Type-Preserving CPS Translation of Sigma and Pi Types is Not Not Possible (POPL '18)](https://www.ccs.neu.edu/home/amal/papers/cpscc.pdf)                   | Nathan |
 
 ## Past Terms
 
