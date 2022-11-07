@@ -19,6 +19,7 @@ For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
 | October 18 | [Staged Compilation with Two-Level Type Theory (POPL '22)](https://doi.org/10.1145/3547641) & [staged-fusion](https://github.com/AndrasKovacs/staged-fusion) | Skye   |
 | October 25 | (Staged Compilation continued)                                                                                                                               | Skye   |
 | November 1 | [Type-Preserving CPS Translation of Sigma and Pi Types is Not Not Possible (POPL '18)](https://www.ccs.neu.edu/home/amal/papers/cpscc.pdf)                   | Nathan |
+| November 8 | [Incorrectness Logic (POPL '20)](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf)                                                      | Bhakti |
 
 ## Past Terms
 
