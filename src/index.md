@@ -21,7 +21,7 @@ For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
 | November 1  | [Type-Preserving CPS Translation of Sigma and Pi Types is Not Not Possible (POPL '18)](https://www.ccs.neu.edu/home/amal/papers/cpscc.pdf)                   | Nathan |
 | November 8  | [Incorrectness Logic (POPL '20)](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf)                                                      | Bhakti |
 | November 15 | Free Monads and Algebraic Effects                                                                                                                            | Skye   |
-| November 22 | Algebraic Effects and Koka                                                                                                                                   | Byron  |
+| November 22 | Algebraic Effects and [Koka](https://koka-lang.github.io/koka/doc/index.html)                                                                                | Byron  |
 | November 28 | [Genetic Programming with Polymorphic Types and Higher-Order Functions](https://www.site.uottawa.ca/~afelty/dist/gecco08.pdf)                                | Andy   |
 
 ## Past Terms
