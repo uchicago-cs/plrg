@@ -12,7 +12,26 @@ To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q
 
 ## Schedule
 
-For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
+For Spring 2023, PLRG meets on Tuesdays 12pm in Crerar 354.
+
+| Date | Paper | Leader |
+| ---- | ----- | ------ |
+
+## Past Terms
+
+### Winter 2023
+
+| Date        | Paper                                                                                                                                                                                                                        | Leader |
+| ----        | -----                                                                                                                                                                                                                        | ------ |
+| January 20  | [Comonads are Objects](https://www.haskellforall.com/2013/02/you-could-have-invented-comonads.html)                                                                                                                          | Nathan |
+| January 27  | [Strong Normalization from Weak Normalization in Typed Lambda-Calculi](https://www.sciencedirect.com/science/article/pii/S089054019692622X)                                                                                  | Nathan |
+| February 3  | [DimSum: A Decentralized Approach to Multi-language Semantics and Verification](https://dl.acm.org/doi/10.1145/3571220)                                                                                                      | Bhakti |
+| February 10 | [Introduction to Free Monads](https://www.youtube.com/watch?v=dYz9V8cQSoY)                                                                                                                                                   | Matt   |
+| February 17 | [Polymorphism, subtyping, and type inference in MLsub](https://dl.acm.org/doi/10.1145/3009837.3009882)                                                                                                                       | John   |
+| February 24 | [The simple essence of algebraic subtyping: principal type inference with subtyping made easy](https://dl.acm.org/doi/10.1145/3409006)                                                                                       | John   |
+| March 3     | [Reflection without Remorse](https://okmij.org/ftp/Haskell/zseq.pdf) & [Asymptotic Improvement of Computations over Free Monads](https://janis-voigtlaender.eu/papers/AsymptoticImprovementOfComputationsOverFreeMonads.pdf) | Skye   |
+
+### Fall 2022
 
 | Date        | Paper                                                                                                                                                        | Leader |
 | ----        | -----                                                                                                                                                        | ------ |
@@ -24,7 +43,6 @@ For Fall 2022, PLRG meets on Tuesdays 11:30am in Crerar 354.
 | November 22 | Algebraic Effects and [Koka](https://koka-lang.github.io/koka/doc/index.html)                                                                                | Byron  |
 | November 28 | [Genetic Programming with Polymorphic Types and Higher-Order Functions](https://www.site.uottawa.ca/~afelty/dist/gecco08.pdf)                                | Andy   |
 
-## Past Terms
 
 ### Spring 2020
 
