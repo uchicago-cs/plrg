@@ -4,15 +4,18 @@ Title: UChicago PL Reading Group
 
 # ![](reading_lambda.png "Reading Lambda") University of Chicago Programming Languages Reading Group
 
-The Programming Languages Reading Group, part of [PL research at UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to discuss interesting PL papers. Food is provided. Visitors welcome!
+The Programming Languages Reading Group, part of [PL research at
+UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to
+discuss interesting PL papers. Food is provided. Visitors welcome!
 
-To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
+<!-- To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup). -->
+To receive announcements, join the [Slack channel](https://cs-uchicago.slack.com/archives/C812SDNG5).
 
-To suggest a paper, [open an issue](https://github.com/uchicago-cs/plrg/issues?q=is%3Aissue) on the Github page. We'll close the issue when we schedule the paper.
+To suggest a paper, add the topic and any links to the [Google Doc](https://docs.google.com/document/d/1lHIKCnMpiGBO7INx_Px0NMapmXnb2znHztdjeDO2Dpc).
 
 ## Schedule
 
-For Spring 2023, PLRG meets on Tuesdays 12pm in Crerar 354.
+For Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
 
 | Date | Paper | Leader |
 | ---- | ----- | ------ |
