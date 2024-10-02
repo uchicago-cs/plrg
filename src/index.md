@@ -17,8 +17,16 @@ To suggest a paper, add the topic and any links to the [Google Doc](https://docs
 
 For Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
 
-| Date | Paper | Leader |
-| ---- | ----- | ------ |
+| Date        | Paper                                                                                  | Leader         |
+| ----        | -----                                                                                  | ------         |
+| October 11  | TBA                                                                                    | TBA            |
+| October 18  | TBA                                                                                    | TBA            |
+| October 25  | TBA                                                                                    | TBA            |
+| November 1  | TBA                                                                                    | TBA            |
+| November 8  | TBA                                                                                    | TBA            |
+| November 15 | [Effect handlers in Scope](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf) | Skye Soss      |
+| November 22 | Servant - [Bragilevsky](https://www.manning.com/books/haskell-in-depth) Chapter 13     | Matt Teichmann |
+| November 29 | TBA                                                                                    | TBA            |
 
 ## Past Terms
 
