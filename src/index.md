@@ -8,8 +8,8 @@ The Programming Languages Reading Group, part of [PL research at
 UChicago](http://pl.cs.uchicago.edu/), is an occasional, informal meeting to
 discuss interesting PL papers. Food is provided. Visitors welcome!
 
-<!-- To receive announcements, sign up for the [`pl-readinggroup` mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup). -->
 To receive announcements, join the [Slack channel](https://cs-uchicago.slack.com/archives/C812SDNG5).
+We also have a mailing list that you can sign up for here: [`pl-readinggroup`](https://mailman.cs.uchicago.edu/mailman/listinfo/pl-readinggroup).
 
 To suggest a paper, add the topic and any links to the [Google Doc](https://docs.google.com/document/d/1lHIKCnMpiGBO7INx_Px0NMapmXnb2znHztdjeDO2Dpc).
 
@@ -17,16 +17,17 @@ To suggest a paper, add the topic and any links to the [Google Doc](https://docs
 
 For Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
 
-| Date        | Paper                                                                                  | Leader         |
-| ----        | -----                                                                                  | ------         |
-| October 11  | TBA                                                                                    | TBA            |
-| October 18  | TBA                                                                                    | TBA            |
-| October 25  | TBA                                                                                    | TBA            |
-| November 1  | TBA                                                                                    | TBA            |
-| November 8  | TBA                                                                                    | TBA            |
-| November 15 | [Effect handlers in Scope](https://www.cs.ox.ac.uk/people/nicolas.wu/papers/Scope.pdf) | Skye Soss      |
-| November 22 | Servant - [Bragilevsky](https://www.manning.com/books/haskell-in-depth) Chapter 13     | Matt Teichmann |
-| November 29 | TBA                                                                                    | TBA            |
+| Date        | Paper                                                                                                                                                                       | Leader         |
+| ----        | -----                                                                                                                                                                       | ------         |
+| October 11  | [A Type- and Control-Flow Analysis for System FC](https://icfp24.sigplan.org/details/tyde-2024-papers/10/A-Type-And-Control-Flow-Analysis-for-System-FC-Extended-Abstract-) | Skye Soss      |
+| October 18  | [Concurrent ML](https://en.wikipedia.org/wiki/Concurrent_ML)                                                                                                                | John Reppy     |
+| October 25  | Closure Conversion                                                                                                                                                          | Byron Zhong    |
+| November 1  | [Regions](https://www.sciencedirect.com/science/article/pii/S0890540196926139)                                                                                              | Jason Carr     |
+| November 8  | Visualizing Computer Programs                                                                                                                                               | Sam Cohen      |
+| November 15 | [MixML](https://dl.acm.org/doi/10.1145/2450136.2450137)                                                                                                                     | Skye Soss      |
+| November 22 | Midwest PL Summit -- No Meeting                                                                                                                                             |                |
+| November 29 | Thanksgiving Break -- No Meeting                                                                                                                                            |                |
+| December  6 | [Iteratees](https://okmij.org/ftp/Haskell/Iteratee/) and [streaming](https://ocaml.org/p/streaming/0.8.0/doc/index.html)                                                    | Matt Teichmann |
 
 ## Past Terms
 
