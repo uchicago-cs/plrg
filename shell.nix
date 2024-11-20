@@ -1,4 +1,9 @@
-{ pkgs ? import <nixpkgs> {} }:
+{pkgs ? import <nixpkgs> {}}:
 pkgs.mkShellNoCC {
-  packages = [ pkgs.multimarkdown pkgs.ruby pkgs.aspell pkgs.fswatch ];
+  packages = [
+    pkgs.multimarkdown
+    pkgs.ruby
+    pkgs.fswatch
+    (pkgs.aspellWithDicts (d: [d.en d.en-computers]))
+  ];
 }
