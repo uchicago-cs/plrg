@@ -23,3 +23,7 @@ spellcheck: src/index.md
 
 watch:
 	fswatch -l 0.1 -Ee "git|index.html|styles.css" . | xargs -ton 1 sh -c "make"
+
+preview:
+	xdg-open http://127.0.0.1:8080
+	python -m http.server 8080
