@@ -15,7 +15,23 @@ To suggest a paper, add the topic and any links to the [Google Doc](https://docs
 
 ## Schedule
 
-For Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
+### For Winter 2026, PLRG meets on Fridays 12pm in Crerar 236.
+
+| Date        | Paper                                   | Leader                                |
+| ---         | ---                                     | ---                                   |
+| January 16  | TBD                                     |                                       |
+| January 23  | TBD                                     |                                       |
+| January 30  | TBD                                     |                                       |
+| February 6  | Verified Compilers for Quantum Programs | Andres Paz (University of Washington) |
+| February 13 | TBD                                     |                                       |
+| February 20 | TBD                                     |                                       |
+| February 27 | TBD                                     |                                       |
+| March 06    | TBD                                     |                                       |
+| March 13    | TBD                                     |                                       |
+
+## Past Terms
+
+### Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
 
 | Date        | Paper                                                                                                                                                                       | Leader         |
 | ----        | -----                                                                                                                                                                       | ------         |
@@ -29,7 +45,6 @@ For Fall 2024, PLRG meets on Fridays 12pm in Crerar 236.
 | November 29 | Thanksgiving Break -- No Meeting                                                                                                                                            |                |
 | December  6 | [Iteratees](https://okmij.org/ftp/Haskell/Iteratee/) and [streaming](https://ocaml.org/p/streaming/0.8.0/doc/index.html)                                                    | Matt Teichmann |
 
-## Past Terms
 
 ### Winter 2023
 
